@@ -6,5 +6,5 @@
 </script>
 
 <button on:click={increment}>
-  count is {count}
+  Contador es {count}
 </button>
